@@ -1,3 +1,5 @@
+'''Show the sentences with rescpective author name'''
+
 from bs4 import BeautifulSoup
 import requests
 

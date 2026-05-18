@@ -1,3 +1,5 @@
+'''Show the quantitative of unique phrases and authors'''
+
 from bs4 import BeautifulSoup
 import requests
 

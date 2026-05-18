@@ -1,3 +1,5 @@
+'''Print the first 500 characters'''
+
 import requests
 
 url = 'https://quotes.toscrape.com/'
